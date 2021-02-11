@@ -6,5 +6,4 @@ i = 0
 while i < 3:
   print("Say Ho")
   i = i + 1
-  
-  
+print("connection test")
